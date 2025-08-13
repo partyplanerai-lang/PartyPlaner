@@ -1,0 +1,15 @@
+{
+  "name": "partyplaner-backend",
+  "version": "1.0.0",
+  "description": "Backend API f\u00fcr den Partyplaner mit 4 Planer-Modulen",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "cors": "^2.8.5"
+  }
+}
